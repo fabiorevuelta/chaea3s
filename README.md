@@ -1,6 +1,6 @@
 
-**CHAEA3S PACKAGE USER INFORMATION
-**
+CHAEA3S PACKAGE USER INFORMATION
+
 
 This text file briefly comments on how CHAEA3S package can be used.
 CHAEA3S is the accronym for CHAEA Automatic Analysis Software, 
@@ -50,6 +50,11 @@ CHAEA3S is provided in three different formats:
 
 In the previous github link, you can also find the Excel
 document that the students must fulfill. 
+Moreover,
+an example of the output report
+CHAEA_learning_styles_summary_report
+that is generated is also included
+(in docx and pdf formats).
 
 In any case, in order to use CHAEA3S package,
 the students must first  fulfill the CHAEA questionnaires.
