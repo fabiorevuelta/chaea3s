@@ -1,6 +1,6 @@
 
-CHAEA3S PACKAGE USER INFORMATION
-
+**CHAEA3S PACKAGE USER INFORMATION
+**
 
 This text file briefly comments on how CHAEA3S package can be used.
 CHAEA3S is the accronym for CHAEA Automatic Analysis Software, 
