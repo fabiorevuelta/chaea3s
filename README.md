@@ -28,7 +28,7 @@ as the author of this software, and you cite the reference
 J. Ablanque, V. Gabaldon, P. Almendros, J. C. Losada,
 R. M. Benito,  and F. Revuelta
 "CHAEA3S: A software for the automated principal-component analysis
-of CHAEA learning styles"
+of learning styles"
 Journal of Science Education and Technology (2024)
 
 The program has been tested in the following operating systems:
