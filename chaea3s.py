@@ -18,7 +18,7 @@
 # J. Ablanque, V. Gabaldon, P. Almendros, J. C. Losada,
 # R. M. Benito,  and F. Revuelta
 # "CHAEA3S: A software for the automated principal-component
-# analysis of CHAEA learning styles"
+# analysis of learning styles"
 # Journal of Science Education and Technology (2024).
 #
 # The software provided here is distributed on an “as-is” basis,
