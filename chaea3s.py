@@ -2904,7 +2904,7 @@ document.add_paragraph(' ')
 our_reference.add_run("J. Ablanque, V. Gabaldon, P. Almendros, J. C. Losada, R. M. Benito,  and F. Revuelta. ").italic = True
 document.add_paragraph(' ')
 
-our_reference.add_run("CHAEA3S: A software for the automated principal-component analysis of CHAEA learning styles. ").italic = True
+our_reference.add_run("CHAEA3S: A software for the automated principal-component analysis of learning styles. ").italic = True
 document.add_paragraph(' ')
 
 our_reference.add_run("Journal of Science Education and Technology (2024).").italic = True
