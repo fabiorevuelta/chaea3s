@@ -1019,7 +1019,7 @@ printt(' Average mean done!')
 printt('------------------------------------------')
 printt(' ')
 #
-# Length of the eigfenvectors when plotted
+# Length of the eigenvectors when plotted
 # (in 2D and 3D) as a function of the LSs
 distmeanmax = 30. - np.min( xmean )
 #
