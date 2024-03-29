@@ -120,7 +120,7 @@ print('Output general folder         : ' + output_gen)
 print(' ')
 #
 # Define the file name for logging
-log_file = "output/chaea3s.log"
+log_file = "output/learning_styles.log"
 #
 if os.path.exists(log_file):
   os.remove(log_file)
@@ -1378,7 +1378,7 @@ for j in range(0,K):
   ax.tick_params(axis='both', which='major', labelsize = ticksize_quartile)
 #
 # Labels
-  ax.set_xlabel('LS',           fontsize = labelsize_quartile)
+  ax.set_xlabel('LS',         fontsize = labelsize_quartile)
   ax.set_ylabel('% Students', fontsize = labelsize_quartile)
 #
 printt( '   Average        ' + str(round(percent_tendency[2]+percent_tendency[3]+percent_tendency[4], 1)))
@@ -2279,7 +2279,7 @@ for ipr in range(0, 2):
   ax.tick_params(axis='both', which='major', labelsize = ticksize_PR)
 #
 # Labels
-  ax.set_xlabel(Label_PR[ipr], fontsize = labelsize_PR)
+  ax.set_xlabel('PR', fontsize = labelsize_PR)
   ax.set_ylabel('P [PR]',      fontsize = labelsize_PR)
 #
   y, x, _= ax.hist(x, bins=15, color = PR_color[ipr], alpha = PR_alpha) # We create a histogram with 15 blocks instead of just bins=10
