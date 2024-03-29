@@ -2234,7 +2234,7 @@ for ipr in range(0, 2):
   ax.tick_params(axis='both', which='major', labelsize = ticksize_PR)
 #
 # Labels
-  ax.set_xlabel(Label_PR[ipr], fontsize = labelsize_PR)
+  ax.set_xlabel('PR', fontsize = labelsize_PR)
   ax.set_ylabel('W [PR]',      fontsize = labelsize_PR)
 #
 # Plot cumulative distribution and Weibull fitting function
