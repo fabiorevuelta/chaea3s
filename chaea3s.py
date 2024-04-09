@@ -3031,7 +3031,7 @@ for i in range(0,K):
   for j in range(0,5):
     t.cell(i+2,j+1).text = str(int(tendency_matrix[i, j])) + '   ' + str( round(tendency_matrix_percentage[i, j], 1))
     
-t.cell(K+2,0).text = 'Average mean'
+t.cell(K+2,0).text = 'Total'
 for j in range(0,5):
   t.cell(K+2,j+1).text = str(int(Ntot_tendency[j])) + '   ' + str(round(percent_tendency[j], 1))
 
@@ -3598,8 +3598,8 @@ t.cell(0,1).text = 'Average mean (Uncertainty)'
 t.cell(0,2).text = 'α'
 t.cell(0,3).text = 'k'
 
-t.cell(1,0).text = 'Principal component'
-t.cell(2,0).text = 'Learning styles'
+t.cell(1,0).text = 'Learning styles'
+t.cell(2,0).text = 'Principal components'
 
 for j in range(0,2):
   xdx = mean_uncert(prmean[j], uncert_abs_pr[j])
