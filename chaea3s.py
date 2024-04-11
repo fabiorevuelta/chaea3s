@@ -3400,11 +3400,11 @@ printt('-------------------------------------------')
 printt(' Figure 6 with the 3D plot of the LSs...')
 printt('-------------------------------------------')
 
-document.add_paragraph('Figure 6 shows a three-dimensional representation of the learning styles of the students as a function of the contributions to three of the CHAEA learning styles. The tendency towards the remaining learning style is impliclity shown in the size and color shades of the points (bigger and darker colors imply a larger tendency). The principal directions shown as continuous lines (PC0 , red; PC1, green; PC2, purple; PC3, orange) emerge from centroid, which is given by the average mean of the data set and is shown as a black star. The projection of the points and the average mean is shown in gray. The projection confidence interval of the average mean is also shown. The origin, which is defined as (0, 0, 0, 0) in the 4D space of the learning styles is shown as a black triangle. The colored points correspond to the maximal pure learning styles (e.g., (20, 0, 0, 0) for activist (red), or (0, 20, 0, 0) for reflector (green)) are also marked.')
+document.add_paragraph('Figure 6 shows a four-dimensional representation of the learning styles of the students as a function of the contributions to three of the CHAEA learning styles. The tendency towards the remaining learning style is impliclity shown in the size and color shades of the points (bigger and darker colors imply a larger tendency). The principal directions shown as continuous lines (PC0 , red; PC1, green; PC2, purple; PC3, orange) emerge from centroid, which is given by the average mean of the data set and is shown as a black star. The projection of the points and the average mean is shown in gray. The projection confidence interval of the average mean is also shown. The origin, which is defined as (0, 0, 0, 0) in the 4D space of the learning styles is shown as a black triangle. The colored points correspond to the maximal pure learning styles (e.g., (20, 0, 0, 0) for activist (red), or (0, 20, 0, 0) for reflector (green)) are also marked.')
 document.add_picture(filename_ls_3d, width=Inches(5))
 
 # Figure title
-figure_title = document.add_paragraph('Figure 6. Three-dimensional representation of the learning styles of the students as a function of the CHAEA learning styles.')
+figure_title = document.add_paragraph('Figure 6. Four-dimensional representation of the learning styles of the students as a function of the CHAEA learning styles.')
 figure_title.alignment = 1  # Center alignment
 figure_run = figure_title.runs[0]
 figure_run.bold = True
