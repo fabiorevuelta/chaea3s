@@ -78,7 +78,7 @@ Feel free to adapt this disclaimer further to match your specific context.
 And remember to give credit to us :)
 
 If you have any comments or suggestions, feel free to contact us
-by sending an e-mail to fabio.revuelta@upm.es.
+by sending an e-mail with your feedback to fabio.revuelta@upm.es.
 
 Author: Version 2.a
 
