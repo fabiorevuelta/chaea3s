@@ -77,11 +77,14 @@ This folder contains:
 Feel free to adapt this disclaimer further to match your specific context.
 And remember to give credit to us :)
 
+If you have any comments or suggestions, feel free to contact us
+by sending an e-mail to fabio.revuelta@upm.es.
+
 Author: Fabio Revuelta
         Grupo de Sistemas Complejos
         Universidad Politecnica de Madrid
         Madrid, February 2024
-
+        fabio.revuelta@upm.es
 
 
 
