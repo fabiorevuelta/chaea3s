@@ -82,7 +82,6 @@ by sending an e-mail to fabio.revuelta@upm.es.
 
 Author:
   Fabio Revuelta
-
   Grupo de Sistemas Complejos
         
         Universidad Politecnica de Madrid
