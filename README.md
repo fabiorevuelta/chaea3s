@@ -29,7 +29,7 @@ J. Ablanque, V. Gabaldon, P. Almendros, J. C. Losada,
 R. M. Benito,  and F. Revuelta
 “CHAEA3S: A software package for comprehensive analysis
 of learning styles and academic performance”
-Computers and Education (2025).
+PLOS ONE (2026).
 
 The program has been tested in the following operating systems:
 
